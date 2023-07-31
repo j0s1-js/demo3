@@ -76,6 +76,10 @@
     user-select: none;
 }
 
+.buttons div:active {
+    transform: scale(0.95);
+}
+
 .music {
     position: absolute;
     top: 0;
